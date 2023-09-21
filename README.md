@@ -7,7 +7,7 @@ Agora's open source implementation of the paper: Connecting Large Language Model
 
 ## Installation
 
-You can install the package using pip
+`pip install eaot``
 
 # Citation
 ```BibTeX
